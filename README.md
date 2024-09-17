@@ -1,6 +1,9 @@
  *********************************NREGA Performance Dashboard (PowerPi Project)*********************************
+ 
 
 ***************************Overview***************************
+
+
 
 This project is a NREGA (National Rural Employment Guarantee Act) Performance Dashboard created using PowerPi. The dashboard provides a comprehensive analysis of the performance of NREGA, offering visual insights into key metrics and trends. The goal is to facilitate data-driven decisions by presenting relevant information in an intuitive and interactive format.
 
@@ -17,7 +20,13 @@ This project is a NREGA (National Rural Employment Guarantee Act) Performance Da
 ***************************Real-time Updates:*************************** The dashboard dynamically updates as new data is fed into the system.
 
 
+
+
+
 ***************************Tools & Technologies***************************
+
+
+
 
 ***************************PowerPi:*************************** Used to set up the project infrastructure and run the analysis.
 
@@ -32,7 +41,11 @@ This project is a NREGA (National Rural Employment Guarantee Act) Performance Da
 
 ![image](https://github.com/user-attachments/assets/a3ccf5ee-cc0b-4834-af40-0fb11d223745)
 
+
+
 ***************************Usage***************************
+
+
 
 1. Select different time periods or regions using the provided filters to explore the NREGA performance metrics.
   
@@ -40,7 +53,11 @@ This project is a NREGA (National Rural Employment Guarantee Act) Performance Da
 
 3. Export or share the dashboard for reporting or further analysis.
 
+   
+
 ***************************Future Enhancements***************************
+
+
 
 1. Adding machine learning models to predict trends based on historical data.
 
@@ -48,11 +65,21 @@ This project is a NREGA (National Rural Employment Guarantee Act) Performance Da
   
 3. Expanding data filters for more in-depth analysis.
 
+
+
+
 ***************************Contributions***************************
+
+
+
 
 Contributions are highly appreciated! Feel free to raise issues or submit pull requests to help improve this project.
 
+
+
 ***************************License***************************
+
+
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
