@@ -17,7 +17,7 @@ This project is a NREGA (National Rural Employment Guarantee Act) Performance Da
 ***************************PowerPi:*************************** Used to set up the project infrastructure and run the analysis.
 ***************************Data Sources:*************************** Public datasets from NREGA reports.
 ***************************Libraries:*************************** Pandas, Matplotlib, Seaborn for data manipulation and visualization.
-***************************Languages:*************************** Python for backend data processing and dashboard logic.
+***************************Languages:*************************** SQL for backend data processing and dashboard logic.
 ***************************Deployment:*************************** The dashboard can be accessed via a web browser or integrated with local networks.
 
 ![image](https://github.com/user-attachments/assets/a3ccf5ee-cc0b-4834-af40-0fb11d223745)
